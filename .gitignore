@@ -1,2 +1,10 @@
+# VS Code specific
+.vscode
+
+# IntelliJ-based IDEs specific
+.idea
+*.iml
+
+# Cargo
 /target
-Cargo.lock
+/Cargo.lock
